@@ -35,7 +35,7 @@ guidance should take the form of two masks such as these:
 
 Content Mask           |  Style Mask
 :-------------------------:|:-------------------------:
-<img height="200" src='https://github.com/nkolkin13/STROTSS/blob/master/content_guidance.jpg?raw=true'> |  <img height="200" src='https://github.com/nkolkin13/STROTSS/blob/master/style_guidance.jpg?raw=true'>
+<img height="200" src='imgs/content_guidance.jpg'> |  <img height="200" src='imgs/style_guidance.jpg'>
 
 
 where regions that you wish to map onto each other have the same color.
